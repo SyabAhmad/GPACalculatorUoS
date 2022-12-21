@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidDevelopment/GPACalculatorUoS/app/src/main/res/layout/activity_main.xml" value="0.1526268115942029" />
+        <entry key="..\:/AndroidDevelopment/GPACalculatorUoS/app/src/main/res/layout/activity_main.xml" value="0.31620553359683795" />
+        <entry key="..\:/AndroidDevelopment/GPACalculatorUoS/app/src/main/res/layout/app_bar_main.xml" value="0.12" />
         <entry key="..\:/AndroidDevelopment/GPACalculatorUoS/app/src/main/res/layout/content_main.xml" value="0.22" />
+        <entry key="..\:/AndroidDevelopment/GPACalculatorUoS/app/src/main/res/layout/fragment_gallery.xml" value="0.33" />
+        <entry key="..\:/AndroidDevelopment/GPACalculatorUoS/app/src/main/res/layout/nav_header_main.xml" value="0.33472803347280333" />
       </map>
     </option>
   </component>
